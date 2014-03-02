@@ -11,3 +11,7 @@ Documentación Oficial: https://developer.mozilla.org/en/docs/Web/JavaScript
 * [Eloquent Javascript](http://eloquentjavascript.net/contents.html)
 * [Javascript: The Good Parts - Douglas Crockford (Amazon.com ~US$18)](http://amzn.com/0596517742) 
 * [Secrets of the Javascript ninja - Jon Resig (Amazon.com ~US$25)](http://amzn.com/193398869X)
+* [JavaScript Patterns by Stoyan Stefanov]
+* [Maintainable JavaScript by Nicholas C. Zakas]
+* [Professional JavaScript for Web Developers by Nicholas C. Zakas]
+
