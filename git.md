@@ -5,3 +5,4 @@ Compañia propietaria de BitBucket
 
 
 * CodeSchool and GitHub [Try Git Tutorial](http://try.github.io)
+* PluralSight Video Tutorial
